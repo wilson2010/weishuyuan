@@ -12,7 +12,8 @@ public class LoginController {
 
     @RequestMapping("/login")
     public String toLogin(){
-		//水水水水水水水
+		//水水水水水水水啊手动阀手动阀
+		System.out.println("11111111111111111111");
         return "login";
     }
 }
