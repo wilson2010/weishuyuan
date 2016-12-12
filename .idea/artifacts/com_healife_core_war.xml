@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com.healife.core:war">
+    <output-path>$PROJECT_DIR$/com.healife.core/target</output-path>
+    <root id="archive" name="com.healife.core.war">
+      <element id="artifact" artifact-name="com.healife.core:war exploded" />
+    </root>
+  </artifact>
+</component>
