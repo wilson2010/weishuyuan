@@ -12,6 +12,7 @@ public class LoginController {
 
     @RequestMapping("/login")
     public String toLogin(){
+		//水水水水水水水
         return "login";
     }
 }
